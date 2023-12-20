@@ -1,0 +1,52 @@
+.position-absolute {
+    top: -20px;
+    width: 90%;
+    left: 15px;
+    border-radius: 10px;
+    line-height: 80px;
+  
+} 
+
+.first-card {
+    margin-top: 70%;
+}
+
+
+.image{
+    background-image: linear-gradient(-45deg, purple, pink);
+    height: 250px;
+    box-shadow: 2px 5px 0px 2px plum;
+
+}
+
+
+
+.icons{
+
+    font-size: 30px;
+
+
+}
+
+
+.social-link i{
+    border-radius: 50%;
+    box-shadow: 1px 1px 1px 2px rgb(158, 6, 158);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
